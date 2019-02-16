@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9" started-at="2019-01-23T12:37:41Z" finished-at="2019-01-23T12:37:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9" started-at="2019-01-23T12:37:41Z" finished-at="2019-01-23T12:37:41Z">
+      <class name="datadriven.Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:datadriven.Login@548a9f61]" name="login" is-config="true" duration-ms="12350" started-at="2019-01-23T12:37:29Z" finished-at="2019-01-23T12:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- datadriven.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
